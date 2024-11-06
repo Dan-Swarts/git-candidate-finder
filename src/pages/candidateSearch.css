@@ -1,0 +1,46 @@
+.CandidateCard {
+    background-color: black;
+    border-radius: 10%;
+}
+
+.CandidateName {
+    text-align: center;
+}
+
+.CandidateLocation {
+    padding-left: 1rem;
+}
+
+.CandidateEmail {
+    padding-left: 1rem;
+}
+
+.CandidateCompany {
+    padding-left: 1rem;
+}
+
+.CandidateBio {
+    padding-left: 1rem;
+    padding-bottom: 1rem;
+}
+
+.buttonsContainer {
+    display: inline-block;
+}
+
+.searchButton {
+    margin: 2rem;
+    border-radius: 100%;
+    background-color: red;
+}
+
+.saveButton {
+    margin: 2rem;
+    border-radius: 100%;
+    background-color: green;
+}
+
+.candidateTile {
+    width: 70.7rem;
+    text-align: center;
+}

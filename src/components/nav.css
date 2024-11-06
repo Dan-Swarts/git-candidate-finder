@@ -1,0 +1,11 @@
+.navBar {
+    justify-content: space-evenly;
+    width: 40rem;
+    color: white;
+}
+
+.navBar * {
+    display: inline;
+    margin-right: 4rem;
+    color: white;
+}
