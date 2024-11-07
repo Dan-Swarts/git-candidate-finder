@@ -1,4 +1,4 @@
-import './SavedCandidate.css';
+import './savedCandidate.css';
 import Candidate from '../interfaces/Candidate.interface';
 import TableEntry from '../components/TableEntry'
 import { useEffect, useState } from 'react';
